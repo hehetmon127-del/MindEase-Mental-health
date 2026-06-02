@@ -1,3 +1,5 @@
+setuptools
+wheel
 asttokens==2.0.5
 backcall==0.2.0
 bcrypt==3.2.2
